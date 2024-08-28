@@ -1,0 +1,19 @@
+h1 {
+  text-align: justify;
+  justify-content: center;
+  display: flex;
+  max-width: 500px;
+  margin: auto;
+}
+.pic2 {
+  position: relative;
+  left: 300px;
+  bottom: 60px;
+  height: 60vh;
+}
+.video{
+    height: 30vh;
+    position: relative;
+    top: 30px;
+    left:350px;
+}
